@@ -1,0 +1,9 @@
+Esto es una prueba destinada
+a calibrar la conveniencia
+o no de usar el simbolo de suma
++ como herramienta de trabajo
+en detrimento del signo de la resta
+- Cucurrucucu
+-Hola caracola
++Adios caracola
+Fin
